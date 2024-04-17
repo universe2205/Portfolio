@@ -1,6 +1,6 @@
 # 꾸준히 역량을 올리는 개발자
 ## 자기소개
-다른 언어에 비해 더 유연하고 자유로운 자바스크립트에 매료된 개발자입니다.
+⭐ **다른 언어에 비해 더 유연하고 자유로운 자바스크립트에 매료된 개발자입니다.**
 
 1. 지식 (Knowledge)
    - 다양한 자바스크립트 프레임워크 및 라이브러리에 대한 이해력이 높고 Vanilla JS, Node.js, React, Vue.js 등과 같은 주요 기술에 대한 지식 보유
@@ -24,3 +24,9 @@
 **[기타 TOOLS]**
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</br></br></br>
+## 프로젝트 경험
+
+1. [2024.03.15 ~ 2024.04.15] **교육기관용 프로젝트 기획서 생성 LLM 서비스**
+   - 예시 사진 : 
+   - 소개 링크 : 
