@@ -25,7 +25,7 @@
 </br></br></br>
 
 ## Project(solo)
-- [2024.04.17 ~ 2024.05.17] **트위터 유사 서비스 <Dwitter>**
+- [2024.04.17 ~ 2024.05.17] **트위터 유사 서비스 < Dwitter >**
   - 예시 사진 :
   - ![드위터](./image/dwitter_cap.png)
   - 배포 링크 : [드위터](https://gahyeondwitter.netlify.app/)
