@@ -52,7 +52,7 @@
     사용 API : <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/pypi-3775A9?style=flat-square&logo=pypi&logoColor=white">  GPT4, LangChain </br>
     사용 DB : ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) </br>
   - 맡은 역할 : 모든 웹페이지 제작 (html,css,js), Chart.js를 이용한 그래프 제작, springboot 백엔드 연결(thymeleaf 사용),mongodb 연동, springboot 백엔드 연결, 써드림 아웃풋 비동기 처리(python), aws와 docker를 통한 프로젝트 배포</br></br>
-- [2023.12.18 ~ 2024.01.24] **사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 서비스**
+- [2023.12.18 ~ 2024.01.24] **사용자 성향 조사 데이터를 활용한 혼행족을 겨냥한 여행 동행자 서비스 < 위드어스 >**
   - 예시 사진 : ![위드어스](./image/withus_cap.png)
   - 소개 링크 : [위드어스](https://github.com/2023-SMHRD-IS-AI1/WithusRepo)
   - 사용언어 : <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></br>
