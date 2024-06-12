@@ -86,7 +86,7 @@ CloudType ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-ba
 
   ![트러블3](./image/trouble3.png)</br></br>
 
-  다음과 같이 ainvoke, gather 등의 함수들을 이용해 해결함 해결함.
+  다음과 같이 ainvoke, gather 등의 함수들을 이용해 해결함.
 
   </details></br></br>
     </br>
